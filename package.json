@@ -1,0 +1,23 @@
+{
+  "name": "abe",
+  "version": "0.0.0",
+  "description": "Expose ArrayBuffers as read/write text streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shtylman/node-abe.git"
+  },
+  "keywords": [
+    "ArrayBuffer",
+    "stream"
+  ],
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stringencoding": "0.0.0",
+    "inherits": "1.0.0"
+  }
+}
